@@ -16,7 +16,7 @@
     "appId": "cn.jingchat.electron-jingchat",
     "productName": "electron-jingchat",
     "directories": {
-      "output": "dist"
+      "output": "dist-mac-arm64-dmg"
     },
     "files": [
       "**/*",
