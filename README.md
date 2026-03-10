@@ -11,5 +11,5 @@ npm start
 
 ### Packaging app for platform win32 x64 using
 ```bash
-npm run build
+npm run build:win
 ```
