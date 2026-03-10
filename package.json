@@ -5,8 +5,8 @@
   "main": "main.js",
   "scripts": {
     "start": "electron .",
-    "build:win": "electron-packager . electron-jingchat --platform=win32 --arch=x64 --out=dist --overwrite",
-    "build:mac-arm64": "electron-packager . electron-jingchat --platform=darwin --arch=arm64 --out=dist --overwrite",
+    "build:win": "electron-packager . electron-jingchat --platform=win32 --arch=x64 --out=dist-win --overwrite",
+    "build:mac-arm64": "electron-packager . electron-jingchat --platform=darwin --arch=arm64 --out=dist-mac-arm64 --overwrite",
     "build:mac-arm64:dmg": "electron-builder --mac dmg --arm64"
   },
   "keywords": [],
