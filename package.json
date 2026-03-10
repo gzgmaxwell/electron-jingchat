@@ -1,5 +1,5 @@
 {
-  "name": "electron-jingchat",
+  "name": "jingchat",
   "version": "1.0.0",
   "description": "Desktop application for JingChat",
   "main": "main.js",
