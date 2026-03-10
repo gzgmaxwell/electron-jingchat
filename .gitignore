@@ -10,6 +10,7 @@ lerna-debug.log*
 node_modules
 dist
 dist-win
+dist-win-setup
 dist-mac-arm64
 dist-mac-arm64-dmg
 dist-ssr
