@@ -1,8 +1,9 @@
+### Build Istall
 ```bash
 npm install
 ```
 
-### Build
+### RUN
 To build the App, run
 ```bash
 npm start
