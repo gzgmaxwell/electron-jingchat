@@ -13,3 +13,7 @@ npm start
 ```bash
 npm run build:win
 ```
+
+### 为window 电脑打包可安装到c盘的setup.exe执行文件,不要动其他配置
+
+
